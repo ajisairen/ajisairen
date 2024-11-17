@@ -1,10 +1,14 @@
-# Developer, Designer, and Artist
-Something will be here eventually
+# Hello, I'm Serena
+## I am a Developer, Designer, and Artist
+I need to figure out what to put here
 
-# Contacts
+## Links
 - email: xin00051@umn.edu
 - site: https://ajisairen.github.io/
 - linkedin: https://www.linkedin.com/in/serena-xin/
+
+## Stats
+![Top Langs](https://github-readme-stats-ebon-six-91.vercel.app/api/top-langs/?username=ajisairen&layout=compact&size_weight=0.5&count_weight=0.5&hide=C,OCaml)
 
 <!--
 **ajisairen/ajisairen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
