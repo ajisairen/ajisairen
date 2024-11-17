@@ -1,4 +1,10 @@
-## Hi there 👋
+# Developer, Designer, and Artist
+Something will be here eventually
+
+# Contacts
+- email: xin00051@umn.edu
+- site: https://ajisairen.github.io/
+- linkedin: https://www.linkedin.com/in/serena-xin/
 
 <!--
 **ajisairen/ajisairen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
