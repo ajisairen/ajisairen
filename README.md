@@ -1,6 +1,33 @@
-# Hello, I'm Serena
-## I am a Developer, Designer, and Artist
-I need to figure out what to put here
+# Developer, Designer, and Artist
+```typescript
+const serenaXin = {
+  os: [Windows11, Mac, Android],
+  languages: ["python", "java", "typescript", "javascript", "html", "css", "c++", "c#"],
+  technologies: {
+    frontEnd: {
+      ts: ["react", "svelte", "three.js", "webgl"],
+      dart: ["flutter"],
+      css: ["chakraui", "material-ui"],
+    },
+    backEnd: {
+      api: ["express.js", "node"],
+    },
+    other: {
+      deployment: ["make", "maven"],
+      qa: ["jest", "google test suite", "junit"],
+      sdlc: ["agile", "scrum", "waterfall"],
+    },
+    tools: {
+      ui: ["adobe xd", "figma"],
+      dev: ["microsoft azure", "github", "docker"],
+    },
+  },
+  projects: {
+    hackathon: {"tomobread":"hackers' choice award", "ingrained":null},
+    personal: ["gopher grades", "multicultural food club", "fishy data", "musical linguistics", "gopher voting"],
+  }
+}
+```
 
 ## Links
 - email: xin00051@umn.edu
